@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Ohayo gozaimasu, I am Tech enthusiast currently pursuing my Final year in Computer Engineering from Pune, India.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I am also an Open Source contributor and my main areas of interests are Operating Systems, Databases and Networking. 
+I diligently follow the researches by 
+Andrej Karpathy
+Konrad Reick
+Raef Bassile
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+kaarti.sr@gmail.com(mailto:email@domain.com)
+guitarman0603@disroot.org(mailto:email@domain.com)
