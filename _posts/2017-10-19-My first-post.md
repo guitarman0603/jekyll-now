@@ -5,7 +5,7 @@ title: My first post
 
 So after procastinating for more than a year, I have finally decided to start a blog. 
 
-![_config.yml]({{ site.baseurl }}/images/road_to_a_new_life_by_omikron1989.png1-e1414241485898.jpg)
+![_config.yml]({{ site.baseurl }}/Images/coffee.jpg)
 
 One of the most "difficult" decision for me was deciding what must I use to host my site. Why not WordPress, Drupal, Joomla or other
 such available platforms. Well, apart from reading from different sources the advantages of github pages I was a bit biased towards 
