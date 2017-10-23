@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Decoding the Keith Magic: THE DIVISION THEOREM IN Z AND F [T ]
+title: Decoding the Keith Magic-The Division Theorem
 ---
-
 `**`A slight detailed look into the world of Keith Konrad.`**`
 
 
