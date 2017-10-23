@@ -2,8 +2,8 @@
 layout: post
 title: Decoding the Keith Magic: THE DIVISION THEOREM IN Z AND F [T ]
 ---
-`**`
-A slight detailed look into the world of Keith Konrad.
+
+`**`A slight detailed look into the world of Keith Konrad.`**`
 
 
 So I decided to work on my Number theory concepts this semester for my Cryptography course.
@@ -12,7 +12,7 @@ Thanks to one of my friend’s mutual interest in Number theory I was fortunate 
 Hence I decided to work on one paper every two days. 
 I would like to call this series as “Decoding the Keith magic”. The thoughts that I will be presenting  here are my own personal thoughs and I would say quite noobish too. While studying these papers, I came across so many supposedly trivial things which made me question the entire existance of Mathematics at times. (Aah! Yes I’m a bit slow and abnormally inquisitive)
 
-So the first paper that I read is THE DIVISION THEOREM IN Z AND F [T ], which is the first paper in the Keith Konrad Elemantary series.
+So the first paper that I read is `**`THE DIVISION THEOREM IN Z AND F [T ]`**`, which is the first paper in the Keith Konrad Elemantary series.
 
 The link to the paper:-
 
