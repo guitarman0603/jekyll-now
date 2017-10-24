@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decoding the Keith Magic
+title: Decoding the Keith Magic-1
 ---
 A slight detailed look into the world of Keith Konrad.
 
@@ -13,7 +13,7 @@ I would like to call this series as “Decoding the Keith magic”. The thoughts
 
 So the first paper that I read is `**`THE DIVISION THEOREM IN Z AND F [T ]`**`, which is the first paper in the Keith Konrad Elemantary series.
 
-The link to the paper:-
+The link to the paper:-http://www.math.uconn.edu/~kconrad/blurbs/ugradnumthy/divthmZF[T].pdf
 
 My personal viewpoints on this paper:-
 
