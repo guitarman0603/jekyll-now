@@ -2,7 +2,7 @@
 layout: post
 title: Decoding the Keith Magic
 ---
-`**`A slight detailed look into the world of Keith Konrad.`**`
+A slight detailed look into the world of Keith Konrad.
 
 
 So I decided to work on my Number theory concepts this semester for my Cryptography course.
