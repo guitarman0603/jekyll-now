@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decoding the Keith Magic-The Division Theorem
+title: Decoding the Keith Magic
 ---
 `**`A slight detailed look into the world of Keith Konrad.`**`
 
