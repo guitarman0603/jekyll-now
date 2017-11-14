@@ -5,7 +5,7 @@ title: SDCs are a thing!
 
 here everyone is busy coming up with Deep learning models, there is an absolutely another world out there working to keep up with the hardware that will be needed for training them.
 
-![_config.yml]({{ site.baseurl }}/Images/coffee.jpg)
+![_config.yml]({{ site.baseurl }})
 
 W Obviously, the announcement of second generation TPUs by google for their Tensor flow framework is definitely going to be a very big step in this field; as the claims made by it seem quite impactful. 
 This is when I came across the research going on in the field of DNN accelerators and that got me quite stirred up. What exactly do SDCs mean? How do they originate? How do we detect them? Why is mitigating them very necessary? Especially in the field of DNN accelerators. These are the first few questions that popped into my head, the moment I started reading about these terms. To understand more about SDCs I came across a paper by IBM, which basically explains what SDC really are.
