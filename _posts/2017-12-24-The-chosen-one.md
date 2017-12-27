@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The chosen one
+title: The chosen one- CentOS 7
 ---
 
 Oh my god! Is it not a pain when you realize that there are endless number of choices out there for well...in my case Operating systems. 
