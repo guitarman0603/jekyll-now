@@ -13,4 +13,7 @@ However, mind can be ungovernable at times and does not focus on one particular 
 
 
 If you are using an lxc container or docker or vagrant to work on some other distro like debian or fedora, this works pretty well there too. My base system is CentOS 7, however working for some specific applications I need to work on Debian and tmux can be really useful there. 
+
+Another really interesting use is when we ssh into a PC, we can remote acess this session and continue to work on it from anywhere. Is it not cool?
+
 Linux is fun!
