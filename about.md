@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Ohayo gozaimasu, I am Tech enthusiast currently pursuing my Final year in Computer Engineering from Pune, India.
+Ohayo gozaimasu, I love and am scared of technology at the same time.
 ### More Information
 
 I am also an Open Source contributor and my main areas of interests are Operating Systems, Databases and Networking. 
@@ -14,5 +14,5 @@ Konrad Reick
 Raef Bassile
 ### Contact me
 
-kaarti.sr@gmail.com(mailto:email@domain.com)
-guitarman0603@disroot.org(mailto:email@domain.com)
+kaarti.sr@gmail.com
+guitarman0603@disroot.org
